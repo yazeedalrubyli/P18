@@ -11,8 +11,9 @@ In this project, all three versions of Tensorflow(Normal, Lite, Mobile) will be 
     * Runtime memory requirements.
     * Estimated model size and GFlops (gigafloating operations per seconds) complexity. 
 
-> All of the measurements must be acquired during the inference phase, not training.
-> At the end a set of scripts must be able to run all the benchmarks developed on different platforms. If possible (available), results should include multiple machines (CPUs or GPUs).
+### Notes
+* All of the measurements must be acquired during the inference phase, not training.
+* At the end a set of scripts must be able to run all the benchmarks developed on different platforms. If possible (available), results should include multiple machines (CPUs or GPUs).
 
 ---
 
