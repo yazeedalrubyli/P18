@@ -10,8 +10,8 @@ In this project, all three versions of Tensorflow(Normal, Lite, Mobile) will be 
 
 * Compare different neural networks under different frameworks.
 * Assess the complexity of the network benchmarks in terms of:
-..* Runtime memory requirements.
-..* Estimated model size and GFlops (gigafloating operations per seconds) complexity. 
+⋅⋅* Runtime memory requirements.
+⋅⋅* Estimated model size and GFlops (gigafloating operations per seconds) complexity. 
 
 > At the end a set of scripts must be able to run all the benchmarks developed on different platforms. If possible (available), results should include multiple machines (CPUs or GPUs).
 
